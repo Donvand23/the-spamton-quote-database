@@ -731,3 +731,21 @@
 - **Call For Help**
   - Kris called for help... ... but nobody came.
   - You whispered Noelle's name...
+
+---
+
+## Chapter 3 Bonus Zone
+
+  <!--All instances of "[Deal Maker]" is in gold-->
+  - \(It's a suspicious drawer... open it?\)
+    - \{Ralsei dialogue\}
+    - \{Fun Gang hides\}
+    - \{Tenna dialogue\}
+  - \(Suddenly the \[Deal Maker\] came out of your inventory...!?\)
+  - \[Trash heap\]!!! YOU KEPT IT!!! YOU REALLY DO CARE!!!
+    - \{Long, very long Tenna dialogue\}
+  - DON'T YOU RECOGNIZE...
+    - \{more Tenna dialogue\}
+  - KRIS.
+  - I'M NEVER \[Doing that\] AGAIN.
+  - \(\[Deal Maker\] returned to your inventory.\)
